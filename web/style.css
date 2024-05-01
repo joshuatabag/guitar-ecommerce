@@ -1,0 +1,13 @@
+.navbar.scrolled{
+    background: rgba(74, 115, 146, 0.668);
+}
+
+#mainNavbar .navbar-brand{
+
+    color: black;
+}
+
+#mainNavbar .nav-link {
+    color: rgb(38, 31, 56);
+
+}
